@@ -43,7 +43,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Leonardo Buta** - *Trabalho Inicial* - [leonardo-buta](https://github.com/leonardo-buta)
 
-* **Marlon Dias** -  - *Edição* - [Marlon Dias](https://github.com/MarlonHDC))
+* **Marlon Dias** - *Edição* - [Marlon Dias](https://github.com/MarlonHDC)
 
   
 
