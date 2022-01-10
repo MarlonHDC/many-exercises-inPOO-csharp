@@ -21,7 +21,7 @@ https://visualstudio.microsoft.com/pt-br/downloads/
 
 É uma IDE fácil de instalar. Para isso basta você baixar o arquivo "Comunidade" e clicar em avançar... avançar... até finalizar a instalação.
 
-Diga como essa etapa será:
+Baixe o arquivo Visual Studio versão "Comunidade" e depois:
 
 ```
 Avançar... Avançar...
