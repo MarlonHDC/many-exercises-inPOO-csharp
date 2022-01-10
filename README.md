@@ -56,4 +56,4 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 ---
 
-⌨️ com ❤️ por [Marlon Dias](https://github.com/MarlonHDC)) 😊
+⌨️ com ❤️ por [Marlon Dias](https://github.com/MarlonHDC) 😊
