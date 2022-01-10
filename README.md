@@ -49,8 +49,8 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 ## 🎁 Agradecimentos
 
-* A Digital Innovation One 📢
-* A Avanade pelo Bootcamp DecolaTech 2.0 🍺 
+* A Digital Innovation One 📢.
+* A Avanade pelo Bootcamp DecolaTech 2.0. 
 * Meus sinceros agradecimentos🤓.
 
 
