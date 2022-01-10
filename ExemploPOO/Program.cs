@@ -9,9 +9,12 @@ namespace ExemploPOO
     {
         static void Main(string[] args)
         {
-            var caminho = "C:\\TrabalhandoComarquivos";
+            var caminho = "C:\\TrabalhandoComArquivos";
             var caminhoPathCombine = Path.Combine(caminho, "Pasta teste 1");
             var caminhoArquivo = Path.Combine(caminho, "arquivo-teste-stream.txt");
+            var caminhoArquivoTeste = Path.Combine(caminho, "arquivo-teste.txt");
+            var caminhoArquivoTesteCopia = Path.Combine(caminho, "arquivo-teste-bkb.txt");
+            var novoCaminhoArquivo = Path.Combine(caminho, "Pasta Teste 2", "arquivo-teste-stream.txt");
 
             var listaString = new List<string> { "Linha 1", "Linha 2", "Linha 3" };
             var listaStringContinuacao = new List<string> { "Linha 4", "Linha 5", "Linha 6" };
@@ -25,7 +28,10 @@ namespace ExemploPOO
             //helper.CriarArquivoTexto(caminhoArquivo, "Olá Teste de escrita de arquivo");
             //helper.CriarArquivoTextoStream(caminhoArquivo, listaString);
             //helper.AdicionarTextoStream(caminhoArquivo, listaStringContinuacao);
-            helper.LerArquivoStream(caminhoArquivo);
+            //helper.LerArquivoStream(caminhoArquivo);
+            //helper.MoverArquivo(caminhoArquivo, novoCaminhoArquivo, false);
+            //helper.CopiarArquivo(caminhoArquivoTeste, caminhoArquivoTesteCopia, false);
+            //helper.DeletarArquivo(caminhoArquivoTeste);
             
             //ICalculadora calc = new Calculadora();
             //Console.WriteLine(calc.Somar(10, 20));
