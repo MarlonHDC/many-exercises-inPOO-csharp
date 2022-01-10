@@ -1,4 +1,3 @@
-# many-exercises-inPOO-csharp
 # Vários Exercícios de Programação Orientada a Objetos POO em C#
 
 Neste código fiz vários exercícios de POO utilizando de vários outros conceitos em C# 
