@@ -38,7 +38,7 @@ Este programa está na versão 1.0.
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Este projeto foi elaborado por:
 
 * **Leonardo Buta** - *Trabalho Inicial* - [leonardo-buta](https://github.com/leonardo-buta)
 
