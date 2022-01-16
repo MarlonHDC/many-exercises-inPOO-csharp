@@ -1,6 +1,6 @@
 # Vários Exercícios de Programação Orientada a Objetos POO em C#
 
-Neste código fiz vários exercícios de POO utilizando de vários outros conceitos em C# 
+##Neste código fiz vários exercícios com foco de aprendizado de POO, porém, utilizando de vários outros conceitos básicos e fundameitais em C# 
 
 ## 🚀 Começando
 
